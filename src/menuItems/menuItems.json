@@ -1,0 +1,14 @@
+[
+  { 
+    "name": "Docs",
+    "link":  "/docs/get-started/introduction"
+  },
+  { 
+    "name": "Network",
+    "link":  "/network/get-started/introduction"
+  },
+  {
+    "name": "Blog",
+    "link": "/blog"
+  }
+]
